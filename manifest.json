@@ -1,0 +1,36 @@
+{
+  "name": "రాయ్ పెద్దబాల శిక్ష",
+  "short_name": "పెద్దబాల శిక్ష",
+  "description": "1–10 తరగతుల అన్ని సబ్జెక్టుల పాఠాలు, క్విజ్‌లు + టీచర్ టూల్స్ – రాయ్ ఎడ్యుకేషన్",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#6a3df0",
+  "theme_color": "#6a3df0",
+  "lang": "te",
+  "categories": [
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
